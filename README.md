@@ -1,2 +1,4 @@
-# Mini-Project
-Mini Project (module-2)
+Mini Project using OOP(Object-Oriented Programming)
+Instructions: 
+Open the terminal in the project folder and compile the program: g++ MiniProject.cpp -o MiniProject.exe
+Run the compiled program: .\MiniProject.exe
