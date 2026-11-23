@@ -1,4 +1,4 @@
-Mini Project using OOP(Object-Oriented Programming)
+Student Mark analyzer using OOP(Object-Oriented Programming)
 
 Instructions: 
 
